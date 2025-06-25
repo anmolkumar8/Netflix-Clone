@@ -6,6 +6,11 @@ h1 {
   color: rgb(252, 11, 11);
   text-align: center;
 }
+.anmol {
+ height: 200px;
+  width: 50%;
+  background-color: powderblue;
+     }
 
 p {
   font-family: verdana;
